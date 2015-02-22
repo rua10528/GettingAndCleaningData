@@ -73,7 +73,7 @@ To generate har_analysis
 
 - save run_analysis.R into the directory of the UCI HAR Dataset
 
-- In R setwd('<the directory of the UCI HAR Dataset>')
+- In R setwd('the directory of the UCI HAR Dataset')
 
 - In R run 
 
