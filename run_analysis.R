@@ -5,9 +5,8 @@
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 # Further details in readme.txt and har_analysis_cookbook.txt 
 #
-
-# place and run the script from the directory level that the UCI HAR Dataset exists in  
-setwd("./UCI HAR Dataset")
+# Set the working directory to the HAS dataset before running 
+# setwd('<HAS Dataset Directory>')
 
 # run from the ./UCI HAR Dataset
 # libraries needed
@@ -76,6 +75,6 @@ har_analysis<-cleanData(featOfIntTbl,activityMapTbl)
 
 # get averages of the clean data set and write to disk
 har_analysistidy <- tidyData(har_analysis,featOfIntTbl)
-write.table(har_analysistidy,"../har_analysistidy.txt",row.name=FALSE)
+write.table(har_analysistidy,"har_analysistidy.txt",row.name=FALSE)
 
-setwd("../")
+#setwd("../")
