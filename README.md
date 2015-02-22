@@ -71,11 +71,13 @@ To generate har_analysis
   
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-- save run_analysis.R into the same directory that the UCI HAR Dataset exists in
+- save run_analysis.R into the directory of the UCI HAR Dataset
 
-- To run 
+- In R setwd('<the directory of the UCI HAR Dataset>')
 
-  source('~/run_analysis.R')
+- In R run 
+
+  source('run_analysis.R')
 
 
 The dataset includes the following files:
