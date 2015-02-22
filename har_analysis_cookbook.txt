@@ -1,0 +1,361 @@
+    					DATA DICTIONARY - HAR_ANALYSIS
+	
+
+[1] tBodyAccMeanX
+			Time Body Acceleration Mean of X axis
+			Range within [-1,1]
+
+[2] tBodyAccMeanY                   
+			Time Body Acceleration Mean of Y axis
+			Range within [-1,1]
+
+[3] tBodyAccMeanZ
+			Time Body Acceleration Mean of Z axis
+			Range within [-1,1]
+
+[4] tBodyAccStdX   
+			Time Body Acceleration Standard Deviation of X axis                 
+			Range within [-1,1]
+
+[5] tBodyAccStdY
+			Time Body Acceleration Standard Deviation of Y axis                
+			Range within [-1,1]
+
+[6] tBodyAccStdZ                     
+			Time Body Acceleration Standard Deviation of Z axis                 
+			Range within [-1,1]
+
+[7] tGravityAccMeanX
+			Time Gravity Acceleration Mean of X axis
+			Range within [-1,1]
+
+[8] tGravityAccMeanY
+			Time Gravity Acceleration Mean of Y axis
+			Range within [-1,1]
+
+[9] tGravityAccMeanZ
+			Time Gravity Acceleration Mean of Z axis
+			Range within [-1,1]
+
+[10] tGravityAccStdX
+			Time Gravity Acceleration Standard Deviation of X axis                 
+			Range within [-1,1]
+
+[11] tGravityAccStdY
+			Time Gravity Acceleration Standard Deviation of Y axis                 
+			Range within [-1,1]
+
+[12] tGravityAccStdZ
+			Time Gravity Acceleration Standard Deviation of Z axis                 
+			Range within [-1,1]
+
+[13] tBodyAccJerkMeanX
+			Time Body Acceleration Jerk Movement Mean of X axis 
+			Range within [-1,1]
+
+[14] tBodyAccJerkMeanY 
+			Time Body Acceleration Jerk Movement Mean of Y axis 
+			Range within [-1,1]
+
+[15] tBodyAccJerkMeanZ
+			Time Body Acceleration Jerk Movement Mean of Z axis 
+			Range within [-1,1]
+
+[16] tBodyAccJerkStdX
+			Time Body Acceleration Jerk Movement Standard Deviation of X axis 
+			Range within [-1,1]
+
+[17] tBodyAccJerkStdY
+			Time Body Acceleration Jerk Movement Standard Deviation of Y axis 
+			Range within [-1,1]
+
+[18] tBodyAccJerkStdZ
+			Time Body Acceleration Jerk Movement Standard Deviation of Z axis
+			Range within [-1,1]
+
+[19] tBodyGyroMeanX
+			Time Body Velocity Mean of X axis 
+			Range within [-1,1]
+
+[20] tBodyGyroMeanY
+			Time Body Velocity Mean of Y axis 
+			Range within [-1,1]
+
+[21] tBodyGyroMeanZ
+			Time Body Velocity Mean of Z axis 
+			Range within [-1,1]
+
+[22] tBodyGyroStdX
+			Time Body Velocity Standard Deviation of X axis 
+			Range within [-1,1]
+
+[23] tBodyGyroStdY
+			Time Body Velocity Standard Deviation of Y axis 
+			Range within [-1,1]
+
+[24] tBodyGyroStdZ
+			Time Body Velocity Standard Deviation of Z axis 
+			Range within [-1,1]
+
+[25] tBodyGyroJerkMeanX
+			Time Body Jerk Movement Velocity Mean of X axis
+			Range within [-1,1]
+
+[26] tBodyGyroJerkMeanY
+			Time Body Jerk Movement Velocity Mean of Y axis
+			Range within [-1,1]
+
+[27] tBodyGyroJerkMeanZ
+			Time Body Jerk Movement Velocity Mean of Z axis
+			Range within [-1,1]
+
+[28] tBodyGyroJerkStdX
+			Time Body Jerk Movement Velocity Standard Deviation of X axis	
+			Range within [-1,1]
+
+[29] tBodyGyroJerkStdY
+			Time Body Jerk Movement Velocity Standard Deviation of Y axis				
+            Range within [-1,1]
+
+[30] tBodyGyroJerkStdZ
+			Time Body Jerk Movement Velocity Standard Deviation of Z axis	
+			Range within [-1,1]
+
+[31] tBodyAccMagMean
+			Time Body Acceleration Magnitude Mean
+			Range within [-1,1]
+
+[32] tBodyAccMagStd
+			Time Body Acceleration Magnitude Standard Deviation
+			Range within [-1,1]
+
+[33] tGravityAccMagMean
+			Time Gravity Acceleration Magnitude Mean
+			Range within [-1,1]
+
+[34] tGravityAccMagStd  
+			Time Gravity Acceleration Magnitude Standard Deviation
+			Range within [-1,1]
+
+[35] tBodyAccJerkMagMean
+			Time Body Acceleration Jerk Movement Magnitude Mean
+			Range within [-1,1]
+
+[36] tBodyAccJerkMagStd 
+			Time Body Acceleration Jerk Movement Magnitude Standard Deviation
+			Range within [-1,1]
+
+[37] tBodyGyroMagMean
+			Time Body Velocity Magnitude Mean
+			Range within [-1,1]
+
+[38] tBodyGyroMagStd                  
+			Time Body Velocity Magnitude Standard Deviation
+			Range within [-1,1]
+
+[39] tBodyGyroJerkMagMean
+			Time Body Velocity Jerk Movement Magnitude Mean
+			Range within [-1,1]
+
+[40] tBodyGyroJerkMagStd
+			Time Body Velocity Jerk Movement Magnitude Standard Deviation
+			Range within [-1,1]
+
+[41] BodyAccMeanX
+			Body Acceleration Mean of X axis
+			Range within [-1,1]
+
+[42] fBodyAccMeanY
+			Frequency Body Acceleration Mean of Y axis
+			Range within [-1,1]
+
+[43] fBodyAccMeanZ
+			Frequency Body Acceleration Mean of Z axis
+			Range within [-1,1]
+
+[44] fBodyAccStdX
+			Frequency Body Acceleration Standard Deviation of X axis
+			Range within [-1,1]
+
+[45] fBodyAccStdY
+			Frequency Body Acceleration Standard Deviation of Y axis
+			Range within [-1,1]
+
+[46] fBodyAccStdZ
+			Frequency Body Acceleration Standard Deviation of Z axis
+			Range within [-1,1]
+
+[47] fBodyAccMeanFreqX
+			Frequency Body Acceleration Mean of X axis
+			Range within [-1,1]
+
+[48] BodyAccMeanFreqY   
+			Frequency Body Acceleration Mean of Y axis
+			Range within [-1,1]
+
+[49] fBodyAccMeanFreqZ
+			Frequency Body Acceleration Mean of Z axis
+			Range within [-1,1]
+
+[50] fBodyAccJerkMeanX
+			Frequency Body Acceleration Jerk Movement Mean of X axis
+			Range within [-1,1]
+
+[51] fBodyAccJerkMeanY
+			Frequency Body Acceleration Jerk Movement Mean of Y axis
+			Range within [-1,1]
+
+[52] fBodyAccJerkMeanZ
+			Frequency Body Acceleration Jerk Movement Mean of Z axis
+			Range within [-1,1]
+
+[53] fBodyAccJerkStdX
+			Frequency Body Acceleration Jerk Movement Standard Deviation of X axis
+			Range within [-1,1]
+
+[54] fBodyAccJerkStdY 
+			Frequency Body Acceleration Jerk Movement Standard Deviation of Y axis
+			Range within [-1,1]
+
+[55] fBodyAccJerkStdZ
+			Frequency Body Acceleration Jerk Movement Standard Deviation of Z axis
+			Range within [-1,1]
+
+[56] fBodyAccJerkMeanFreqX
+			Frequency Body Acceleration Jerk Mean of X axis
+			Range within [-1,1]
+
+[57] fBodyAccJerkMeanFreqY
+			Frequency Body Acceleration Jerk Mean of Y axis
+			Range within [-1,1]
+
+[58] fBodyAccJerkMeanFreqZ
+			Frequency Body Acceleration Jerk Mean of Z axis
+			Range within [-1,1]
+
+[59] fBodyGyroMeanX                    
+			Frequency Body Velocity Mean of X axis
+			Range within [-1,1]
+
+[60] fBodyGyroMeanY                   
+			Frequency Body Velocity Mean of Y axis
+			Range within [-1,1]
+
+[61] fBodyGyroMeanZ
+			Frequency Body Velocity Mean of Z axis
+			Range within [-1,1]
+
+[62] fBodyGyroStdX                    
+			Frequency Body Velocity Standard Deviation of X axis
+			Range within [-1,1]
+
+[63] fBodyGyroStdY
+			Frequency Body Velocity Standard Deviation of Y axis
+			Range within [-1,1]
+
+[64] fBodyGyroStdZ
+			Frequency Body Velocity Standard Deviation of Z axis
+			Range within [-1,1]
+
+[65] fBodyGyroMeanFreqX 
+			Frequency Body Velocity Mean Frequency of X axis
+			Range within [-1,1]
+
+[66] fBodyGyroMeanFreqY               
+			Frequency Body Velocity Mean Frequency of Y axis
+			Range within [-1,1]
+
+[67] fBodyGyroMeanFreqZ
+			Frequency Body Velocity Mean Frequency of Z axis
+			Range within [-1,1]
+
+[68] fBodyAccMagMean                  
+			Frequency Body Acceleration Magnitude Mean
+			Range within [-1,1]
+
+[69] fBodyAccMagStd  
+			Frequency Body Acceleration Magnitude Standard Deviation                 
+			Range within [-1,1]
+
+[70] fBodyAccMagMeanFreq      
+			Frequency Body Acceleration Magnitude Mean Frequency                  
+			Range within [-1,1]
+
+[71] fBodyBodyAccJerkMagMean 
+			Frequency Body Acceleration of Jerk Movement Magnitude Mean            
+			Range within [-1,1]
+
+[72] fBodyBodyAccJerkMagStd           
+			Frequency Body Acceleration of Jerk Movement Magnitude Standard Deviation
+			Range within [-1,1]
+
+[73] fBodyBodyAccJerkMagMeanFreq       
+			Frequency Body Acceleration of Jerk Movement Magnitude Mean Frequency
+			Range within [-1,1]
+
+[74] fBodyBodyGyroMagMean
+			Frequency Body Velocity Magitude Mean             
+			Range within [-1,1]
+
+[75] fBodyBodyGyroMagStd
+			Frequency Body Velocity Magitude Standard Deviation
+			Range within [-1,1]
+
+[76] fBodyBodyGyroMagMeanFreq         
+			Frequency Body Velocity Magitude Mean Frequency
+			Range within [-1,1]
+
+[77] fBodyBodyGyroJerkMagMean          
+			Frequency Body Velocity Jerk Movement Magitude Mean
+			Range within [-1,1]
+
+[78] fBodyBodyGyroJerkMagStd          
+			Frequency Body Velocity Jerk Movement Magitude Standard Deviation
+			Range within [-1,1]
+
+[79] fBodyBodyGyroJerkMagMeanFreq      
+			Frequency Body Velocity Jerk Movement Magitude Mean Freq
+			Range within [-1,1]
+
+[80] angletBodyAccMeangravity         
+			Angle Time Body Acceleration Mean Gravity
+			Range within [-1,1]
+
+[81] angletBodyAccJerkMeangravityMean
+			Angle Time Body Acceleration Jerk Movement Mean Gravity
+			Range within [-1,1]
+
+[82] angletBodyGyroMeangravityMean    
+			Angle Time Body Velocity Gravity Mean
+			Range within [-1,1]
+
+[83] angletBodyGyroJerkMeangravityMean
+			Angle Time Body Velocity Jerk Movement Gravity Mean
+			Range within [-1,1]
+
+[84] angleXgravityMean
+			Angle Gravity Mean of X axis
+			Range within [-1,1]
+
+[85] angleYgravityMean
+			Angle Gravity Mean of Y axis
+			Range within [-1,1]
+
+[86] angleZgravityMean
+			Angle Gravity Mean of Z axis
+			Range within [-1,1]
+             
+[87] subject		
+			Each row identifies the subject who performed the activity
+ 			Range from 1 to 30.
+
+[88] activity   	
+			The activity the person was performing
+
+            Values
+			WALKING
+			WALKING_UPSTAIRS	
+			WALKING_DOWNSTAIRS	
+			SITTING	
+			STANDING	
+			LAYING  
